@@ -1,1 +1,1 @@
-# ritesh-websitr
+# ritesh-website
