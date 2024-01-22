@@ -331,12 +331,11 @@ li a:hover {
         flex-direction: column;
         text-align: center;
         top: 3.4rem;
-        color: #fff;
         left: -100%;
         z-index: 111111;
     }
 
-    li a{
+    li a {
         color: #fff;
     }
 
