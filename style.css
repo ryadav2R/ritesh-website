@@ -336,6 +336,12 @@ li a:hover {
         z-index: 111111;
     }
 
+    li a{
+        color: #fff;
+    }
+
+    
+
     .menu {
         display: block;
         font-size: 1.5rem;
